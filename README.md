@@ -17,4 +17,7 @@ This function is a practical implementation of Phase Cycling in Electron Spin Ec
 
 ## Authors
 Edmund Little
-Copyright (c) 2019: Edmund Little
+
+If you have any questions or suggestions, please email edmund.little@manchester.ac.uk.
+
+Copyright (c) 2019, Edmund Little
