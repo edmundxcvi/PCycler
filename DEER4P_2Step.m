@@ -5,7 +5,7 @@ clear all
 % 4PDEER reference:
 % Dead-Time Free Measurement of Dipole?Dipole Interactions between Electron Spins, 
 % M. Pannier, S. Veit, A. Godt, G. Jeschke, and H. W. Spiess
-%?Journal of Magnetic Resonance 142, 331?340 (2000)
+% Journal of Magnetic Resonance 142, 331?340 (2000)
 
 % Experiment variables - REQUIRED
 % Number of pulses
@@ -20,8 +20,8 @@ Exp.var = t_DEER;
 
 % Experiment variables - OPTIONAL
 % Phase cycle
-Exp.p_cycle = [0      0      0      0      0      ;
-               pi     0      0      0      0      ];
+Exp.p_cycle = [0      0      0      0      ;
+               pi     0      0      0      ];
 % Maximum coherence order
 Exp.max_order = 1;
 % Initial coherence order
