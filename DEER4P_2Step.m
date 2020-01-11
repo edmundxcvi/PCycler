@@ -1,6 +1,11 @@
+clear all
 % Sample input for pcycler
 % 4PDEER experiment with conventional 2-step phase cycle
-clear all
+%
+% 4PDEER reference:
+% Dead-Time Free Measurement of Dipole?Dipole Interactions between Electron Spins, 
+% M. Pannier, S. Veit, A. Godt, G. Jeschke, and H. W. Spiess
+%?Journal of Magnetic Resonance 142, 331?340 (2000)
 
 % Experiment variables - REQUIRED
 % Number of pulses
