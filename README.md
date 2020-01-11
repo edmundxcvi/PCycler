@@ -1,5 +1,5 @@
 # PCycler
-PCycler is a MATLAB function which aids the creation of efficient phase cycles in pulse magnetic resonance experiments. For an arbitrary pulse sequence, PCycler can apply a virtual phase cycle and outputs which echos cross the desired resonance feature and their weights. This is useful for pulse Electron Paramagnetic Resonance and Nuclear Magnetic Resonance (EPR and NMR, respectively).
+PCycler is a MATLAB function which aids the creation of efficient phase cycles in pulse magnetic resonance experiments. For an arbitrary pulse sequence, PCycler can apply a virtual phase cycle and outputs which echos and FIDs cross the desired resonance feature and at what times. This is useful for pulse Electron Paramagnetic Resonance and Nuclear Magnetic Resonance (EPR and NMR, respectively).
 
 ## Setup
 PCycler requires the [Matlab Symbolic Toolbox](https://uk.mathworks.com/products/symbolic.html).
