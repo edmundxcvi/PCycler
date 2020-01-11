@@ -15,4 +15,8 @@ This project is licenced under the GNU General Public License, see [LICENSE](LIC
 ## Authors
 Edmund Little
 
+## Acknowledgements
+This function is a practical implementation of:
+Phase Cycling in Electron Spin Echo Envelope Modulation, _S. Stoll and B. Kasumaj_, Appl. Magn. Reson. (__2008__) 35, 15-32
+
 Copyright (c) 2019: Edmund Little
