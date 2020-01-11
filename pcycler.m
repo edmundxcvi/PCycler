@@ -64,6 +64,8 @@ function [ctp, cycled_weights] = pcycler(Exp, Opt)
 % cycled_weights    - complex array, length nEchos
 %                     The real and imaginary parts of each coherence
 %                     transer pathway after phase cycling.
+%
+% Copyright (c) Edmund Little, 11th Jan 2020
 
 % Set defaults and ensure input correct
 % nPulses
