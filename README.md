@@ -7,7 +7,7 @@ PCycler requires the [Matlab Symbolic Toolbox](https://uk.mathworks.com/products
 To install PCycler, you need to add the file pcycler.m to your Matlab path, see [here](https://uk.mathworks.com/help/matlab/matlab_env/add-remove-or-reorder-folders-on-the-search-path.html) for the official Matlab documentation on how to do this.
 
 ## Usage
-A full list of inputs and outputs is detailed in the header of [pcycler.m](pcycler.m).
+A full list of inputs and outputs is detailed in the header of [pcycler.m](pcycler.m). An example input script is included ([DEER4P_2Step.m](DEER4P_2Step.m)).
 
 ## License
 This project is licenced under the GNU General Public License, see [LICENSE](LICENSE) for more details.
