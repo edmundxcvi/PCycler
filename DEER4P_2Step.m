@@ -34,7 +34,6 @@ Opt.onlycrossing = 1;
 % Starts at equilibrium and ends at detection
 Opt.filter = [-1i, -1i, -1i, -1];
 
-
 % Run calculation
 [ctp, cycled_weights] = pcycler(Exp, Opt);
 
