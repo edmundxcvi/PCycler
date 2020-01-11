@@ -31,7 +31,7 @@ Opt.onlycrossing = 1;
 % Coherence filtering example
 % n.b. this is unnecessary and included for demonstration purposes only.
 % Detection coherence order is -1 automatically.
-% n.b. Starts at equilibrium and ends at detection
+% Starts at equilibrium and ends at detection
 Opt.filter = [-1i, -1i, -1i, -1];
 
 
