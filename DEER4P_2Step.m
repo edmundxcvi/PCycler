@@ -9,7 +9,7 @@ Exp.nPulses = 4;
 % n.b. Starts at equilibrium and ends at detection
 Exp.p_des = [0 -1 +1 +1 -1];
 % Names for interpulse delays
-syms tau1 tau2 delta Tmix
+syms tau1 tau2 t_DEER
 Exp.d_names = [tau1, tau1 + t_DEER, tau2 - t_DEER];
 Exp.var = t_DEER;
 
